@@ -43,11 +43,7 @@ Data visualization and pattern discovery.
 
 
 
-## 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=manthan707-ds&theme=react-dark)
-
----
 
 ## 🌱 Currently Learning
 
