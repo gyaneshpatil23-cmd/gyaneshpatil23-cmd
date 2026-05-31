@@ -41,15 +41,7 @@ Data visualization and pattern discovery.
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=manthan707-ds&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=manthan707-ds&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan707-ds&layout=compact&theme=radical)
-
----
 
 ## 📈 Activity Graph
 
@@ -70,8 +62,7 @@ Data visualization and pattern discovery.
 
 - GitHub
 - LinkedIn
-- YouTube (coming soon)
 
 ---
 
-⭐ From Manthan
+⭐ From Gyan
